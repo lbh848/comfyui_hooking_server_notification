@@ -74,6 +74,12 @@ Comfypack 사용자의 경우 모델 다운로드 방법에 대한
 
 https://drive.proton.me/urls/920TAA4XK4#pYNVlbq02fWe
 
+또한 HIRESFIX 과정에서 모델이 멋대로 눈의 크기를 바꾸거나.. 하는 일을 막기 위해 컨트롤넷을 추가했어
+
+때문에 아래 링크에서 Canny 계열 컨트롤넷을 추가로 다운받아야해
+
+https://civitai.com/models/929685/noobai-xl-controlnet
+
 편하게 사용하고 싶을텐데 잦은 업데이트로 인해 불편함을 겪게 해서 미안해
 
 이번 업데이트에서 한번에 해결하기 위해 넣고 싶었던 기능을 넣고 
